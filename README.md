@@ -1,1 +1,1 @@
-Sample of speech to text with Visual Studio for Mac
+This is Sample of speech to text at iOS by Visual Studio for Mac.
